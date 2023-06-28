@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como editor e produtor de áudio
-- 🌱 Atualmente estudo Python
+- 🌱 Atualmente estudo JavaScript, HTML, CSS, Python e MYSQL
 
 
  
