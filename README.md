@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Atualmente estou trabalhando como editor e produtor de áudio
-- 🌱 Atualmente estudo JavaScript, HTML, CSS, Python e MYSQL
+- Atualmente estou trabalhando como editor e produtor de áudio
+- Desenvolvedo sites em Wordpress
+- Atualmente estudo Python com Django, HTML, CSS e MYSQL
 
 
  
