@@ -3,7 +3,7 @@
 
 
 - Atualmente estou trabalhando como editor e produtor de áudio
-- Desenvolvedo sites em Wordpress
+- Desenvolvedor sites em Wordpress
 - Atualmente estudo Python com Django, HTML, CSS e MYSQL
 
 
